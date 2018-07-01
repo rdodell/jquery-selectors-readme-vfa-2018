@@ -13,7 +13,8 @@ function ninjaBabySelector() {
 
 function divSelector() {
   $('div');
-+}
-+function firstListItem() {
+}
+
+function firstListItem() {
 +  $('child-tag:first-child');
 +} 
