@@ -16,5 +16,5 @@ function divSelector() {
 }
 
 function firstListItem() {
-+  $('child-tag:first-child');
-+} 
+  $('child-tag:first-child');
+} 
