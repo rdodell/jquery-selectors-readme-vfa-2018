@@ -6,9 +6,10 @@ function paragraphSelector() {
 function lastImageSelector() {
   'img:last';
 }
-+function ninjaBabySelector() {
-+  $('#baby-ninja');
-+}
+
+function ninjaBabySelector() {
+  $('#baby-ninja');
+}
 +function divSelector() {
 +  $('div');
 +}
