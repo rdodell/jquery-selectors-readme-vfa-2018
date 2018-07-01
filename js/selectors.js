@@ -10,8 +10,9 @@ function lastImageSelector() {
 function ninjaBabySelector() {
   $('#baby-ninja');
 }
-+function divSelector() {
-+  $('div');
+
+function divSelector() {
+  $('div');
 +}
 +function firstListItem() {
 +  $('child-tag:first-child');
